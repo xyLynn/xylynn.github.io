@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/font photo.jpg"
+  image: "/images/font-photo.jpg"
 ---
 
 I am a Marketing Analyst who excel Salesforce...
