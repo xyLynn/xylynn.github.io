@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiaoyi Lin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analyst Portfolio"
   location         : "Dallas, TX"
   email            :
@@ -132,7 +132,7 @@ author:
       # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/xiaoyi-lin/
+      # url: https://www.linkedin.com/in/xiaoyi-lin/
 
 # Site Footer
 footer:
